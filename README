@@ -1,0 +1,23 @@
+tryton-angular-project_plan
+===========================
+
+The nantic module for Angular and Tryton application platform.
+
+
+Install
+-------
+
+cd tryton/jsondata_path
+git clone https://github.com/angelnan/angular-tryton-project_plan.git
+npm install
+
+
+License
+-------
+
+See LICENSE
+
+Copyright
+---------
+
+See COPYRIGHT
