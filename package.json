@@ -1,0 +1,11 @@
+{
+  "name": "nantic-angular-tryton-project_plan",
+  "private": true,
+  "version": "0.0.0",
+  "description": "A Tryton and Angular Project Plan",
+  "repository": "",
+  "license": "GPL",
+  "scripts": {
+    "postinstall": "bower install"
+  }
+}
